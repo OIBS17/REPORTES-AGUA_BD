@@ -98,5 +98,5 @@ No hay dependencias transitivas.
 Está en **Cuarta Forma Normal (4FN)** porque no existen dependencias multivaluadas en ninguna tabla. No hay atributos que representen múltiples valores independientes para una misma clave primaria en la tabla reporte ni en ninguna otra tabla.
 
 
-### Consultas [consultas.sql]()
+### Consultas [consultas.sql](https://github.com/OIBS17/REPORTES-AGUA_BD/blob/main/consultas.sql)
 
