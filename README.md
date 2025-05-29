@@ -161,7 +161,7 @@ Está en **Cuarta Forma Normal (4FN)** porque no existen dependencias multivalua
 
 ![image](https://github.com/user-attachments/assets/ca618d74-2624-4ae9-a16b-07b4fa8de524)
 
-#### Porcentaje de medios de recepción y eolución por horas del día por alcaldía
+#### Porcentaje de medios de recepción y evolución por horas del día por alcaldía
 
 ![image](https://github.com/user-attachments/assets/f70230eb-20a7-400b-bc1d-ac8181d401b4)
 
