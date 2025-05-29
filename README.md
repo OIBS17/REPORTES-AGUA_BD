@@ -85,7 +85,7 @@ Se eliminaron registros con coordenadas que no estuvieran en la CDMX.
 Además se eliminaron registros repetidos.
 Se eliminaron 12,713 filas repetidas.
 
-### Normalización [normalizacion.sql]()
+### Normalización [normalizacion.sql](https://github.com/OIBS17/REPORTES-AGUA_BD/blob/main/normalizacion.sql)
 
 La base de datos está en Primera, Segunda y Tercera Forma Normal (3FN) porque:
 
