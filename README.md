@@ -77,7 +77,7 @@ Tlalpan	|Falta de agua |	18,196
 Venustiano Carranza	|Falta de agua	| 7,526	
 Xochimilco	|Falta de agua	| 5,033	
 
-### Limpieza [limpieza.sql]()
+### Limpieza [limpieza.sql](https://github.com/OIBS17/REPORTES-AGUA_BD/blob/main/limpieza.sql)
 Para limpiar los datos primero quitamos acentos y pusimos mayúsuclas a las alcaldías y colonias, esto además nos ayudará a hacer compatible nuestra base de datos con futuras conexiones que busquemos.
 Se eliminaron registros en los que las coordenadas eran nula.
 Se eliminaron los registros con anomalías de fecha.
