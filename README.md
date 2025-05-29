@@ -45,7 +45,7 @@ La base de datos cuenta con **12 atributos** y **313,756 registros**
   ```
   \copy reportes_agua FROM '/ruta/al/archivo/reportes_agua.csv' WITH (FORMAT csv, HEADER true);
   ```
-### Análisis exploratorio [eda.sql]()
+### Análisis exploratorio [eda.sql](https://github.com/OIBS17/REPORTES-AGUA_BD/blob/main/eda.sql)
 A partir de este análisis exploratorio se encontraron varios descubrimientos interesantes:
 -La alcaldía con más reportes es **Gustavo A. Madero con 54,431**.
 -La colonia con más reportes es la **Agrícola Oriental en 2022 con 8,003 reportes** (Alcaldía Iztacalco)
