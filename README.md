@@ -26,7 +26,7 @@ La base de datos cuenta con **12 atributos** y **313,756 registros**
   ```
 #Crear la tabla
   ```
-  CREATE TABLE raw.reportes_agua(
+  CREATE TABLE reportes_agua(
     folio_incidente TEXT,
     fecha_registro_incidente DATE,
     id_reporte TEXT,
