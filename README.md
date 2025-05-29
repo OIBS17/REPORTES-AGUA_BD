@@ -100,3 +100,26 @@ Está en **Cuarta Forma Normal (4FN)** porque no existen dependencias multivalua
 
 ### Consultas [consultas.sql](https://github.com/OIBS17/REPORTES-AGUA_BD/blob/main/consultas.sql)
 
+#### Evolución de reportes por categoría
+![image](https://github.com/user-attachments/assets/e661f892-8888-4798-ac96-33f38e54adc2)
+
+#### Evolución por sucategoría
+![image](https://github.com/user-attachments/assets/d88a0ea2-2a88-4a26-b086-5ea192188cd7)
+
+#### --Alcaldías y número de reportes
+
+![image](https://github.com/user-attachments/assets/af3d3848-0f08-42d2-9b02-fa93939ca123)
+
+#### -- Porcentaje de categoria y subcategoria por alcaldía
+
+![image](https://github.com/user-attachments/assets/3bbe463c-9331-4dca-abfc-8e3aa1b115ee)
+
+#### -- Evolución de alcaldías y colonias
+![image](https://github.com/user-attachments/assets/819663d1-6143-4e94-837b-144c1a0eb411)
+
+![image](https://github.com/user-attachments/assets/ca618d74-2624-4ae9-a16b-07b4fa8de524)
+
+#### Porcentaje de medios de recepción y eolución por horas del día por alcaldía
+
+![image](https://github.com/user-attachments/assets/f70230eb-20a7-400b-bc1d-ac8181d401b4)
+
