@@ -97,6 +97,8 @@ No hay dependencias transitivas.
 
 Está en **Cuarta Forma Normal (4FN)** porque no existen dependencias multivaluadas en ninguna tabla. No hay atributos que representen múltiples valores independientes para una misma clave primaria en la tabla reporte ni en ninguna otra tabla.
 
+####Diagrama ERD
+![image](https://github.com/user-attachments/assets/bd8ea27b-2788-493e-923f-e3864e4246ee)
 
 ### Consultas [consultas.sql](https://github.com/OIBS17/REPORTES-AGUA_BD/blob/main/consultas.sql)
 
