@@ -85,37 +85,37 @@ A partir de este análisis exploratorio se encontraron varios descubrimientos in
 
 Las subclasificaciones más comúnes por alcaldía:
 
-Álvaro Obregón	|Fuga |	13,354	
+Álvaro Obregón	  |Fuga |	13,354	
 
-Azcapotzalco	|Falta de agua	| 9,201	
+Azcapotzalco	    |Falta de agua	| 9,201	
 
-Benito Juárez	|Falta de agua	| 14,298	
+Benito Juárez	    |Falta de agua	| 14,298	
 
-Coyoacán	|Falta de agua	| 15,140	
+Coyoacán	        |Falta de agua	| 15,140	
 
 Cuajimalpa de Morelos	|Falta de agua	| 3,467	
 
-Cuauhtémoc	|Falta de agua	| 13,441	
+Cuauhtémoc	      |Falta de agua	| 13,441	
 
 Gustavo A. Madero	|Falta de agua	| 33,059	
 
-Iztacalco	|Falta de agua	| 16,281	
+Iztacalco	        |Falta de agua	| 16,281	
 
-Iztapalapa	|Falta de agua	| 13,222	
+Iztapalapa	      |Falta de agua	| 13,222	
 
 La Magdalena Contreras	|Fuga	| 4,455	
 
-Miguel Hidalgo	|Fuga	| 5,654	
+Miguel Hidalgo	  |Fuga	| 5,654	
 
-Milpa Alta	|Falta de agua	| 1,231	
+Milpa Alta	    |Falta de agua	| 1,231	
 
-Tláhuac	|Falta de agua	| 5,826	
+Tláhuac	        |Falta de agua	| 5,826	
 
-Tlalpan	|Falta de agua |	18,196	
+Tlalpan	        |Falta de agua |	18,196	
 
 Venustiano Carranza	|Falta de agua	| 7,526	
 
-Xochimilco	|Falta de agua	| 5,033	
+Xochimilco	    |Falta de agua	| 5,033	
 
 ### Limpieza [limpieza.sql](https://github.com/OIBS17/REPORTES-AGUA_BD/blob/main/limpieza.sql)
 Para limpiar los datos primero quitamos acentos y pusimos mayúsuclas a las alcaldías y colonias, esto además nos ayudará a hacer compatible nuestra base de datos con futuras conexiones que busquemos.
