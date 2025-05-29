@@ -15,7 +15,7 @@ La base de datos cuenta con **12 atributos** y **313,756 registros**
 -**longitud** (_numérico_)             -> Longitud
 -**latitud** (_numérico_)               -> Latitud
 
-### Carga inicial
+### Carga inicial [carga.sql]()
 #Crear la base de datos
   ```
   CREATE DATABASE reportes_agua;
@@ -45,7 +45,7 @@ La base de datos cuenta con **12 atributos** y **313,756 registros**
   ```
   \copy reportes_agua FROM '/ruta/al/archivo/reportes_agua.csv' WITH (FORMAT csv, HEADER true);
   ```
-### Análisis exploratorio
+### Análisis exploratorio [eda.sql]()
 A partir de este análisis exploratorio se encontraron varios descubrimientos interesantes:
 -La alcaldía con más reportes es **Gustavo A. Madero con 54,431**.
 -La colonia con más reportes es la **Agrícola Oriental en 2022 con 8,003 reportes** (Alcaldía Iztacalco)
@@ -77,7 +77,7 @@ Tlalpan	|Falta de agua |	18,196
 Venustiano Carranza	|Falta de agua	| 7,526	
 Xochimilco	|Falta de agua	| 5,033	
 
-### Limpieza 
+### Limpieza [limpieza.sql]()
 Para limpiar los datos primero quitamos acentos y pusimos mayúsuclas a las alcaldías y colonias, esto además nos ayudará a hacer compatible nuestra base de datos con futuras conexiones que busquemos.
 Se eliminaron registros en los que las coordenadas eran nula.
 Se eliminaron los registros con anomalías de fecha.
@@ -85,7 +85,7 @@ Se eliminaron registros con coordenadas que no estuvieran en la CDMX.
 Además se eliminaron registros repetidos.
 Se eliminaron 12,713 filas repetidas.
 
-###Normalización
+### Normalización [normalizacion.sql]()
 
 La base de datos está en Primera, Segunda y Tercera Forma Normal (3FN) porque:
 
@@ -98,7 +98,5 @@ No hay dependencias transitivas.
 Está en **Cuarta Forma Normal (4FN)** porque no existen dependencias multivaluadas en ninguna tabla. No hay atributos que representen múltiples valores independientes para una misma clave primaria en la tabla reporte ni en ninguna otra tabla.
 
 
-
-
-###Consultas 
+### Consultas [consultas.sql]()
 
