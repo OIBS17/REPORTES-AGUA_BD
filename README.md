@@ -15,7 +15,7 @@ La base de datos cuenta con **12 atributos** y **313,756 registros**
 -**longitud** (_numérico_)             -> Longitud
 -**latitud** (_numérico_)               -> Latitud
 
-### Carga inicial [carga.sql]()
+### Carga inicial [carga.sql](https://github.com/OIBS17/REPORTES-AGUA_BD/blob/main/carga.sql)
 #Crear la base de datos
   ```
   CREATE DATABASE reportes_agua;
